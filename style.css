@@ -1,0 +1,130 @@
+body
+{
+    background-color:#f7fbfa;
+
+}
+.container
+{
+    background-color:#e4f9f5;
+    width: 100%;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    padding-top: 100px;
+
+}
+
+h1
+{
+color:rgb(75, 75, 143);
+font-size: 50px;
+margin-bottom: 30px;
+font-style: oblique;
+
+}
+span
+{
+    color:rgb(81, 104, 206);
+}
+.para {
+    font-size: 3rem;
+    margin-bottom: 30px;
+    padding:10px;
+}
+.middlecontainer
+{
+    margin: 100px 0;
+    width: 100%;
+    text-align: center;
+}
+
+img {
+ 
+    border-radius: 50%;
+    height: 200px;
+    padding-bottom: 50px;
+    
+}
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+  
+
+p
+{
+    
+        line-height: 2;
+        text-align: center;
+        font-size: 25px;
+        font-family: "Merriweather", serif;
+       
+
+}
+.midcontainer{
+    background-image: -webkit-radial-gradient();
+    text-align: center;
+
+}
+.list
+{
+    list-style: circle ;
+   
+}
+li{
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: "Merriweather", serif;
+}
+hr
+{
+    padding: 50px 50px 50px 50px;
+   
+}
+.contact-me
+{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    
+   
+}
+.mail
+{
+    padding-bottom: 40px;
+}
+.btn
+{
+    background: #11cdd4;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+.bottom-container {
+    background-color: #66bfbf;
+    padding-top:50px;
+}
+.copywrite
+{
+    
+        display: block;
+        font-size: 10px;
+        
+    
+}
+.footer-link
+{
+    
+        color: #11999e;
+        font-family: "Montserrat", sans-serif;
+        margin: 10px 20px;
+        text-decoration: none;
+        text-align: center;
+    
+}
